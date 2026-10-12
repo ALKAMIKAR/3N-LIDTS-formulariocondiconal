@@ -1,0 +1,14 @@
+Nombre : perez
+Apellidos : valentin
+Edad : 67
+Telefono : 9676767676
+Estatura : 1.67
+Genero : Masculino
+
+Nombre : Christofer Beltran
+Apellidos : Akpovie Olise
+Edad : 67
+Telefono : 9676767676
+Estatura : 1.67
+Genero : Masculino
+
